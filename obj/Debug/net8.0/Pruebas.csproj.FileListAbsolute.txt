@@ -23,3 +23,4 @@ C:\Users\Usuario\Desktop\Neo Nico\Programacion\Web\Pruebas\ASP.NET-CORE\obj\Debu
 C:\Users\Usuario\Desktop\Neo Nico\Programacion\Web\Pruebas\ASP.NET-CORE\obj\Debug\net8.0\Pruebas.pdb
 C:\Users\Usuario\Desktop\Neo Nico\Programacion\Web\Pruebas\ASP.NET-CORE\obj\Debug\net8.0\Pruebas.genruntimeconfig.cache
 C:\Users\Usuario\Desktop\Neo Nico\Programacion\Web\Pruebas\ASP.NET-CORE\obj\Debug\net8.0\ref\Pruebas.dll
+C:\Users\Usuario\Desktop\Neo Nico\Programacion\Web\Pruebas\ASP.NET-CORE\obj\Debug\net8.0\Pruebas.sourcelink.json
